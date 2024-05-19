@@ -1,4 +1,4 @@
-# JavaScript Command-Line Projects
+# Typescript Command-Line Projects
 
 ## Overview
 
